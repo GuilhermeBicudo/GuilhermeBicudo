@@ -2,9 +2,11 @@
 
 **`Formando em ciências da computação`**
 
-Olá! Sou Guilherme, estudante iniciante de Ciências da Computação, movido por uma paixão intensa por tecnologia e gestão. 📚🎮
+Olá! Sou Guilherme, estudante do 5º semestre de Ciências da Computação, com uma enorme paixão por tecnologia e gestão. 📚🎮
 
-Desde jovem, sempre fui fascinado pelo mundo dos livros e dos games, o que despertou meu interesse pelo universo da engenharia de software. Atualmente, estou começando a explorar a interseção entre engenharia de software e gestão, especialmente na área de gestão de projetos. Minha meta ao longo da graduação é desenvolver habilidades que me permitam não apenas me tornar um desenvolvedor competente, mas também adquirir competências em gestão. Acredito que a combinação dessas áreas será essencial para criar soluções tecnológicas inovadoras e alcançar o sucesso no mercado.
+Gosto muito de livros e games, o que despertou meu interesse pela engenharia de software. Atualmente, estou explorando a interseção entre engenharia de software e gestão de projetos.
+
+Meu objetivo é desenvolver habilidades que me permitam ser um desenvolvedor competente, além de adquirir competências em gestão, para criar soluções tecnológicas inovadoras. Estou em busca de um estágio em desenvolvimento de software, análise e desenvolvimento, e gestão de projetos, para aplicar e expandir esses conhecimentos.
 
 <div style="text-align: left;">
     <a href="https://github.com/GuilhermeBicudo">

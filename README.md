@@ -4,11 +4,11 @@
 
 Desenvolvedor de Software | Análise e Desenvolvimento | Gestão de Projetos | IA | HTML | CSS | JavaScript | Node.js
 
-Olá! Sou Guilherme, estudante do 5º semestre de Ciências da Computação, com uma enorme paixão por tecnologia e gestão. 📚🎮
+Olá! Sou Guilherme, estou no 5º semestre de Ciências da Computação, apaixonado por tecnologia e gestão. 📚🎮
 
-Gosto muito de livros e games, o que despertou meu interesse pela engenharia de software. Atualmente, estou explorando a interseção entre engenharia de software e gestão de projetos.
+Minha curiosidade por livros e games despertou um profundo interesse pela engenharia de software. Agora, estou explorando a interseção entre engenharia de software e gestão de projetos, sempre em busca de novas maneiras de integrar esses campos.
 
-Meu objetivo é desenvolver habilidades que me permitam ser um desenvolvedor competente, além de adquirir competências em gestão, para criar soluções tecnológicas inovadoras. Estou em busca de um estágio em desenvolvimento de software, análise e desenvolvimento, e gestão de projetos para aplicar e expandir esses conhecimentos.
+Estou em busca de oportunidades que permitam aplicar meus conhecimentos e crescer profissionalmente em um estágio de desenvolvimento de software, análise e desenvolvimento, e gestão de projetos. Tenho muita vontade de colaborar com equipes inspiradoras e contribuir para projetos inovadores e desafiadores.
 
 <div style="text-align: left;">
     <a href="https://github.com/GuilhermeBicudo">

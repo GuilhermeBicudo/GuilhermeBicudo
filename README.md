@@ -4,7 +4,7 @@
 
 Desenvolvedor de Software | Análise e Desenvolvimento | Gestão de Projetos | IA | HTML | CSS | JavaScript | Node.js
 
-Olá! Sou Guilherme, estou no 5º semestre de Ciências da Computação, apaixonado por tecnologia e gestão. 📚🎮
+Olá! Sou Guilherme, estou no 4º semestre de Ciências da Computação, apaixonado por tecnologia e gestão. 📚🎮
 
 Minha curiosidade por livros e games despertou um profundo interesse pela engenharia de software. Agora, estou explorando a interseção entre engenharia de software e gestão de projetos, sempre em busca de novas maneiras de integrar esses campos.
 

@@ -6,7 +6,7 @@
 
 <img align="right" height="200" src="https://media.licdn.com/dms/image/v2/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1663786260509?e=1746057600&v=beta&t=j2qfNu00-Mpy-6cB_NGN_bVffIJXUHaVtIWngc-2-1w" />
 
-<p align="left"> 🔸 Apaixonado por tecnologias, educação, games, livros e corrida.<br> 🔸 Experiência com HTML, CSS, JavaScript e Node.js.<br> 🔸 Objetivo: Dev Full-Stack.<br> 🔸 Editor de conteúdo. </p><br><br>
+<p align="left"> 🔸 Apaixonado por tecnologias, educação, games, livros e corrida.<br> 🔸 Experiência com HTML, CSS, JavaScript e Node.js.<br> 🔸 Objetivo: Dev Full-Stack.<br> 🔸 Editor de conteúdo. </p><br><br><br>
 
 <h2 align="left">🤖 Linguagens e Tecnologias</h2>
 
@@ -20,4 +20,3 @@
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeBicudo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeBicudo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&order=2" height="150" alt="languages graph" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeBicudo&radius=16&theme=cobalt&area=true&order=5" height="300" alt="activity-graph graph" /> </div>
 
-<img src="https://raw.githubusercontent.com/GuilhermeBicudo/GuilhermeBicudo/output/snake.svg" alt="Snake animation" />

@@ -1,123 +1,23 @@
-# 🧑🏻‍💻 Guilherme Bicudo
+<h2 align="left">Hi 👋! My name is Guilherme</h2>
 
-**`Formando em ciências da computação`**
+<p align="left">🎯 Dev Full-Stack | 🎒 Estudante de Ciências da Computação</p>
 
-Olá! Sou Guilherme, estudante do 4º semestre de Ciências da Computação e atualmente cursando o segundo ano de inglês na KNN. Sou apaixonado por tecnologia, livros, comunicação e debates que envolvam troca de ideias sobre literatura, games e inovações tecnológicas. 📚
+<h2 align="left">💡 About me</h2>
 
-Tenho facilidade para trabalhar em equipe, gosto de compartilhar conhecimento e acredito que a comunicação é uma das chaves para o sucesso de projetos. Estou em busca de um estágio nas áreas de desenvolvimento de software, análise de sistemas ou gestão de projetos, onde possa unir minha curiosidade, vontade de aprender e habilidades para contribuir em projetos desafiadores.
+<img align="right" height="200" src="https://media.licdn.com/dms/image/v2/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1663786260509?e=1746057600&v=beta&t=j2qfNu00-Mpy-6cB_NGN_bVffIJXUHaVtIWngc-2-1w" />
 
-<div style="text-align: left;">
-    <a href="https://github.com/GuilhermeBicudo">
-    <img
-        alt="followers"
-        title="follow me on Github"
-        src="https://custom-icon-badges.demolab.com/github/followers/GuilhermeBicudo?color=4CAF50&labelColor=388E3C&style=for-the-badge&logo=person-add&label=follow&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/guilherme-de-andrade-bicudo-5637ab288/">
-    <img
-        alt="Linkedin"
-        title="follow me on Linkedin"
-        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-</div>
+<p align="left"> 🔸 Apaixonado por tecnologias, educação, games, livros e corrida.<br> 🔸 Experiência com HTML, CSS, JavaScript e Node.js.<br> 🔸 Objetivo: Dev Full-Stack.<br> 🔸 Editor de conteúdo. </p><br><br>
 
----
+<h2 align="left">🤖 Linguagens e Tecnologias</h2>
 
-### 🤖 Linguagens e Tecnologias
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" /> </div>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-/>
+<h2 align="left">📩 Social Media</h2>
+
+<div style="display: flex; align-items: center;"> <a href="https://www.linkedin.com/in/guilherme-de-andrade-bicudo-5637ab288/"> <img src="https://custom-icon-badges.demolab.com/github/followers/GuilhermeBicudo?color=4CAF50&labelColor=388E3C&style=for-the-badge&logo=person-add&label=follow&logoColor=white" height="35" alt="followers" title="Follow me on GitHub" /> </a> <a href="https://www.linkedin.com/in/guilherme-de-andrade-bicudo-5637ab288/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /> </a> </div>
+
+<h2 align="left">✨ Status ✨</h2>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeBicudo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeBicudo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&order=2" height="150" alt="languages graph" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeBicudo&radius=16&theme=cobalt&area=true&order=5" height="300" alt="activity-graph graph" /> </div>
+
+<img src="https://raw.githubusercontent.com/GuilhermeBicudo/GuilhermeBicudo/output/snake.svg" alt="Snake animation" />

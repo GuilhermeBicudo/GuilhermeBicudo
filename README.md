@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Guilherme</h2>
 
-<p align="left">🎯 Dev Full-Stack | 🎒 Estudante de Ciências da Computação</p>
+<p align="left">🎯 Dev Front-End | 🎒 Estudante de Ciências da Computação</p>
 
 <h2 align="left">💡 About me</h2>
 

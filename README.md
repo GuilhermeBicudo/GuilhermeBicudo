@@ -8,7 +8,7 @@
 
 <p align="left"> 🔸 Apaixonado por tecnologias, educação, games, livros e corrida.<br> 🔸 Experiência com HTML, CSS, JavaScript e Node.js.<br> 🔸 Objetivo: Dev Full-Stack.<br> 🔸 Editor de conteúdo. </p><br><br><br>
 
-<h2 align="left">🤖 Linguagens e Tecnologias</h2>
+<h2 align="left">🤖 Languages ​​and Technologies</h2>
 
 <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" /> </div>
 

@@ -7,7 +7,7 @@
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
   <img 
     align="left" 
-    height="150" 
+    height="120" 
     src="https://media.licdn.com/dms/image/v2/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1663786260509?e=1746057600&v=beta&t=j2qfNu00-Mpy-6cB_NGN_bVffIJXUHaVtIWngc-2-1w" 
     style="max-width: 100%; height: auto; margin-bottom: 20px; flex-shrink: 0;"
   />
@@ -48,4 +48,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeBicudo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&order=2" height="150" alt="languages graph" /> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeBicudo&radius=16&theme=cobalt&area=true&order=5" height="300" alt="activity-graph graph" /> 
 </div>
-

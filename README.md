@@ -4,14 +4,14 @@
 
 <h2 align="left">💡 About me</h2>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
   <img 
     align="left" 
     height="150" 
     src="https://media.licdn.com/dms/image/v2/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1663786260509?e=1746057600&v=beta&t=j2qfNu00-Mpy-6cB_NGN_bVffIJXUHaVtIWngc-2-1w" 
-    style="max-width: 100%; height: auto; margin-bottom: 20px;"
+    style="max-width: 100%; height: auto; margin-bottom: 20px; flex-shrink: 0;"
   />
-  <p align="left" style="flex: 1; max-width: 100%; text-align: center;"> 
+  <p align="left" style="flex: 1; max-width: 100%; text-align: left; margin-top: 0;"> 
     🔸 Apaixonado por tecnologias, educação, games, livros e corrida.<br> 
     🔸 Experiência com HTML, CSS, JavaScript e Node.js.<br> 
     🔸 Objetivo: Dev Full-Stack.<br> 

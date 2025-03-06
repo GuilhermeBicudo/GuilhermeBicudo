@@ -49,22 +49,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeBicudo&radius=16&theme=cobalt&area=true&order=5" height="300" alt="activity-graph graph" /> 
 </div>
 
-<!-- Adicionando o CSS para responsividade -->
-<style>
-  @media (max-width: 768px) {
-    div[style*="display: flex; flex-wrap: wrap;"] {
-      flex-direction: column;
-      align-items: center;
-      text-align: center;
-    }
-
-    div[style*="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;"] img {
-      margin-bottom: 10px;
-    }
-
-    div[style*="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;"] p {
-      text-align: center;
-      margin-top: 0;
-    }
-  }
-</style>

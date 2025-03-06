@@ -6,8 +6,8 @@
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
   <img 
-    align="left" 
-    height="120" 
+    align="right" 
+    height="130" 
     src="https://media.licdn.com/dms/image/v2/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1663786260509?e=1746057600&v=beta&t=j2qfNu00-Mpy-6cB_NGN_bVffIJXUHaVtIWngc-2-1w" 
     style="max-width: 100%; height: auto; margin-bottom: 20px; flex-shrink: 0;"
   />

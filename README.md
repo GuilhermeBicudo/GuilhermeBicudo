@@ -49,18 +49,15 @@
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left" display="flex">📊 GitHub Stats</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeBicudo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=60" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBicudo&layout=compact&langs_count=8&theme=dracula&cache_seconds=60" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeBicudo&radius=16&theme=cobalt&area=true&cache_seconds=60" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeBicudo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBicudo&layout=compact&langs_count=8&theme=dracula" height="150" />
 </div>
 
----
+<br />
 
-<h2 align="left">🎮 Snake Game</h2>
-
-<p align="center">
-  <img src="https://github.com/GuilhermeBicudo/GuilhermeBicudo/raw/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeBicudo&theme=dracula" height="300" />
+</div>

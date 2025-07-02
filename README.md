@@ -49,7 +49,7 @@
 
 ---
 
-<h2 align="left" display="flex">📊 GitHub Stats</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeBicudo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />

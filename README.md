@@ -1,11 +1,9 @@
 <h2 align="left">Hi 👋! I'm Guilherme</h2>
-
 <p align="left">🎯 Front-End Developer | 🎒 Computer Science Student</p>
 
 ---
 
 <h2 align="left">💡 About Me</h2>
-
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
   <img 
     align="right" 
@@ -36,7 +34,6 @@
 ---
 
 <h2 align="left">📬 Let's Connect</h2>
-
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;"> 
   <a href="https://github.com/GuilhermeBicudo" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/github/followers/GuilhermeBicudo?color=4CAF50&labelColor=388E3C&style=for-the-badge&logo=person-add&label=follow&logoColor=white" height="35" alt="GitHub followers" />
@@ -49,7 +46,6 @@
 ---
 
 <h2 align="left">📊 GitHub Stats</h2>
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeBicudo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBicudo&layout=compact&langs_count=8&theme=dracula" height="150" />

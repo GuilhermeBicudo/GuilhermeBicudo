@@ -4,12 +4,6 @@
 ---
 
 <h2 align="left">💡 About Me</h2>
-<img 
-  align="right" 
-  height="130" 
-  src="https://media.licdn.com/dms/image/v2/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1663786260509?e=1746057600&v=beta&t=j2qfNu00-Mpy-6cB_NGN_bVffIJXUHaVtIWngc-2-1w" 
-  alt="Imagem de perfil de Guilherme"
->
 <p align="left"> 
   🔸 Apaixonado por tecnologia, educação, games, livros e corrida.<br> 
   🔸 Experiência com HTML, CSS, JavaScript e Node.js.<br> 
